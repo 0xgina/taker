@@ -3407,3 +3407,15 @@
 4/15/2025 | 1:08:37 AM | INFO | Trying to check user miner status... 
 4/15/2025 | 1:08:37 AM | INFO | Last mining time: 4/14/2025, 4:17:00 AM
 4/15/2025 | 1:08:37 AM | WARN | Mining already started, next mining time is: 4/15/2025, 4:17:00 AM
+4/15/2025 | 4:17:08 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/15/2025 | 4:17:08 AM | INFO | Start process for wallet 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+4/15/2025 | 4:17:08 AM | INFO | Trying To Login for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+4/15/2025 | 4:17:09 AM | INFO | Login successful... 
+4/15/2025 | 4:17:09 AM | INFO | Trying to check user info... 
+4/15/2025 | 4:17:10 AM | INFO | User ID: 103273024 | Twitter: @reginazaliva | Total Points: 1272000 
+4/15/2025 | 4:17:10 AM | INFO | Trying to check user miner status... 
+4/15/2025 | 4:17:10 AM | INFO | Last mining time: 4/14/2025, 4:17:00 AM
+4/15/2025 | 4:17:10 AM | INFO | Trying to start Mining for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+4/15/2025 | 4:17:11 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/15/2025 | 4:17:11 AM | INFO | Trying to activate mining on-chain for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+4/15/2025 | 4:17:16 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x829fc5a9f49ea9d2db2800d7511b115ada02f1605fc8d5cf23b3b741d1077d74 
