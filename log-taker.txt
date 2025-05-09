@@ -4812,3 +4812,12 @@
 5/9/2025 | 4:17:35 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/9/2025 | 4:17:35 PM | INFO | Trying to activate mining on-chain for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
 5/9/2025 | 4:17:46 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x740b6e04f76c11bb279bafde8b8b2544ca347b7d9a709b50b02207633ad9675a 
+5/9/2025 | 8:15:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/9/2025 | 8:15:48 PM | INFO | Start process for wallet 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+5/9/2025 | 8:15:49 PM | INFO | Trying To Login for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+5/9/2025 | 8:15:49 PM | INFO | Login successful... 
+5/9/2025 | 8:15:49 PM | INFO | Trying to check user info... 
+5/9/2025 | 8:15:50 PM | INFO | User ID: 103273024 | Twitter: @reginazaliva | Total Points: 1824000 
+5/9/2025 | 8:15:50 PM | INFO | Trying to check user miner status... 
+5/9/2025 | 8:15:52 PM | INFO | Last mining time: 5/9/2025, 4:17:42 PM
+5/9/2025 | 8:15:52 PM | WARN | Mining already started, next mining time is: 5/10/2025, 4:17:42 PM
