@@ -8046,3 +8046,15 @@
 7/5/2025 | 12:27:06 PM | INFO | Trying to activate mining on-chain for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
 7/5/2025 | 12:27:10 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818480831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a01b0fef21a7967e7296af2c66be7262885aed79bc40345b6456bedcf57dc8032ca0393df4329223396e0a5414181d4e74c96a6915f60f2b40a31ad12af40d387218"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 12:27:10 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 4:16:46 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 4:16:46 PM | INFO | Start process for wallet 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+7/5/2025 | 4:16:47 PM | INFO | Trying To Login for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+7/5/2025 | 4:16:48 PM | INFO | Login successful... 
+7/5/2025 | 4:16:48 PM | INFO | Trying to check user info... 
+7/5/2025 | 4:16:48 PM | INFO | User ID: 103273024 | Twitter: @reginazaliva | Total Points: 3048000 
+7/5/2025 | 4:16:48 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 4:16:49 PM | INFO | Last mining time: 7/4/2025, 8:20:18 AM
+7/5/2025 | 4:16:49 PM | INFO | Trying to start Mining for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+7/5/2025 | 4:16:50 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 4:16:50 PM | INFO | Trying to activate mining on-chain for wallet: 0x3ca5f93Dbd4BAF0c445eFFd909A58C99275C01A6 
+7/5/2025 | 4:17:03 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xbd7112f68d6726eca2888f5ca9586e37c2c91aeaa6d53442a2f3a9e478d951b0 
